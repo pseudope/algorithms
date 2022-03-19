@@ -1,11 +1,12 @@
-# algorithms
+# Algorithms
 
-Selected codes about the algorithm problems solved by me would be uploaded. All the codes are written in python3.
+Selected codes about the algorithm problems solved by me would be uploaded. All of them are written in Python3.
 
 ## Problem Sourses:
 * [BOJ] Baekjoon Online Judge (https://www.acmicpc.net/)
 * [PE]  Project Euler (https://projecteuler.net/about)
 * TBD
+
 ## Announcement:
 * If the code does not work correctly because of the TLE, please put this snippet uppermost.
 
@@ -16,4 +17,4 @@ Selected codes about the algorithm problems solved by me would be uploaded. All 
         return sys.stdin.readline().rstrip()
     ```
 
-Last Update: 20220126
+Last Update: 20220320
