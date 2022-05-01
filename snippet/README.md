@@ -4,15 +4,17 @@ Some snippet codes I usually use would be uploaded. All of them are written in P
 
 ## Category:
 * [DS] Data Structure
+* [GEO] Geometry
 * [GT] Graph Theory
-* [S] String
+* [MAT] Mathematics
+* [STR] String
 * TBD
 
 ## Uploaded:
 * [DS] Trie
 
 ## Preparing:
-* [S] Manacher
-* [S] KMP
+* [STR] Manacher
+* [STR] KMP
 
 Last Update: 20220501
