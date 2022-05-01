@@ -12,6 +12,7 @@ Some snippet codes I usually use would be uploaded. All of them are written in P
 
 ## Uploaded:
 * [DS] Trie
+* [MAT] Catalan
 
 ## Preparing:
 * [STR] Manacher
