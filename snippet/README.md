@@ -17,5 +17,6 @@ Some snippet codes I usually use would be uploaded. All of them are written in P
 ## Preparing:
 * [STR] Manacher
 * [STR] KMP
+* [MAT] Miler-Labin
 
-Last Update: 20220501
+Last Update: 20220508
